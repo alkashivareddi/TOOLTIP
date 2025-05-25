@@ -1,5 +1,9 @@
 # TOOLTIP
 TOOLTIP is a simple and responsive tooltip component built using HTML and CSS. This project demonstrates how to create visually appealing tooltips that enhance user experience without relying on JavaScript.
+# Technologies Used
+
+- HTML5
+- CSS3
 
 # Project Structure
 ```
